@@ -64,3 +64,6 @@ Site, kullanıcıların kişisel bilgilerini, deneyimlerini, eğitim geçmişler
 
 ## Lisans
 Bu proje MIT lisansı altında lisanslanmıştır. 
+
+##iletişim
+Email: bektas.sari@gmail.com
