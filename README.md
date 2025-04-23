@@ -29,6 +29,8 @@ It was created using HTML, CSS, and JavaScript. The site allows users to showcas
 ## License
 This project is licensed under the MIT License.
 
+## Contact
+Email: bektas.sari@gmail.com
 
 
 ____
