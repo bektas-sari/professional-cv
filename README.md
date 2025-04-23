@@ -37,7 +37,8 @@ ____
 
 # Professional Resume Portfolio (DeepSeek Ai aistanıyla oluşturulmuştur)
 
-Bu proje, kişisel bir portföy ve profesyonel özgeçmiş (CV) web sitesi örneğidir. HTML, CSS ve JavaScript kullanılarak oluşturulmuştur. Site, kullanıcıların kişisel bilgilerini, deneyimlerini, eğitim geçmişlerini ve becerilerini sergilemelerine olanak tanır.
+Bu proje, kişisel bir portföy ve profesyonel özgeçmiş (CV) web sitesi örneğidir. HTML, CSS ve JavaScript kullanılarak oluşturulmuştur. 
+Site, kullanıcıların kişisel bilgilerini, deneyimlerini, eğitim geçmişlerini ve becerilerini sergilemelerine olanak tanır.
 
 ## Özellikler
 
