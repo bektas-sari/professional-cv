@@ -1,6 +1,7 @@
 # Professional Resume Portfolio (Created with DeepSeek AI Assistant)
 
-This project is an example of a personal portfolio and professional resume (CV) website. It was created using HTML, CSS, and JavaScript. The site allows users to showcase their personal information, work experiences, educational background, and skills.
+This project is an example of a personal portfolio and professional resume (CV) website. 
+It was created using HTML, CSS, and JavaScript. The site allows users to showcase their personal information, work experiences, educational background, and skills.
 
 ## Features
 
