@@ -29,8 +29,13 @@ It was created using HTML, CSS, and JavaScript. The site allows users to showcas
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-Email: bektas.sari@gmail.com
+## 👤 Developer
+**Bektas Sari**  
+Email: bektas.sari@gmail.com  <br>
+GitHub: https://github.com/bektas-sari <br>
+LinkedIn: www.linkedin.com/in/bektas-sari <br>
+Researchgate: https://www.researchgate.net/profile/Bektas-Sari-3 <br>
+Academia: https://independent.academia.edu/bektassari <br>
 
 
 ____
@@ -66,4 +71,9 @@ Site, kullanıcıların kişisel bilgilerini, deneyimlerini, eğitim geçmişler
 Bu proje MIT lisansı altında lisanslanmıştır. 
 
 ##iletişim
-Email: bektas.sari@gmail.com
+**Bektas Sari**  
+Email: bektas.sari@gmail.com  <br>
+GitHub: https://github.com/bektas-sari <br>
+LinkedIn: www.linkedin.com/in/bektas-sari <br>
+Researchgate: https://www.researchgate.net/profile/Bektas-Sari-3 <br>
+Academia: https://independent.academia.edu/bektassari <br>
